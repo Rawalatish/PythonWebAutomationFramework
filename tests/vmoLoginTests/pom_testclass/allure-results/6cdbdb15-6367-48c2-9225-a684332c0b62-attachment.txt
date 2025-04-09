@@ -1,0 +1,25 @@
+Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="login-username"]"}
+  (Session info: chrome=135.0.7049.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF603145335+78597]
+	GetHandleVerifier [0x00007FF603145390+78688]
+	(No symbol) [0x00007FF602EF91AA]
+	(No symbol) [0x00007FF602F4F149]
+	(No symbol) [0x00007FF602F4F3FC]
+	(No symbol) [0x00007FF602FA2467]
+	(No symbol) [0x00007FF602F7712F]
+	(No symbol) [0x00007FF602F9F2BB]
+	(No symbol) [0x00007FF602F76EC3]
+	(No symbol) [0x00007FF602F403F8]
+	(No symbol) [0x00007FF602F41163]
+	GetHandleVerifier [0x00007FF6033EEEED+2870973]
+	GetHandleVerifier [0x00007FF6033E9698+2848360]
+	GetHandleVerifier [0x00007FF603406973+2967875]
+	GetHandleVerifier [0x00007FF60316017A+188746]
+	GetHandleVerifier [0x00007FF60316845F+222255]
+	GetHandleVerifier [0x00007FF60314D2B4+111236]
+	GetHandleVerifier [0x00007FF60314D462+111666]
+	GetHandleVerifier [0x00007FF603133589+5465]
+	BaseThreadInitThunk [0x00007FFF461AE8D7+23]
+	RtlUserThreadStart [0x00007FFF47EDBF6C+44]
+
